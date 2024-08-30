@@ -1,4 +1,4 @@
-let a = 10;
+let a = 20;
 debugger;
 function parent() {
   debugger;
